@@ -1,9 +1,11 @@
-1.获取pt_local_token
+#电脑本地快速登录协议获取cookie
 
-2.获取本地在线QQ(uin)
+##1.获取pt_local_token
 
-3.获取clientkey
+##2.获取本地在线QQ(uin)
 
-4.获取skey
+##3.获取clientkey
 
-5.获取p_skey
+##4.获取skey
+
+##5.获取p_skey
