@@ -4,4 +4,6 @@
 
 3.获取clientkey
 
-4.得到skey
+4.获取skey
+
+5.获取p_skey
